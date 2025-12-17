@@ -14,8 +14,12 @@ Function first. Minimal by design.
 <a href="#-philosophy">Philosophy</a>
 </h6>
 
+</p>
 <p align="center">
-<img src="[https://via.placeholder.com/800x400/161616/ffffff?text=oxide+preview](https://www.google.com/search?q=https://via.placeholder.com/800x400/161616/ffffff%3Ftext%3Doxide%2Bpreview)" width="600" alt="oxide preview" />
+  <a href="https://github.com/oxidescheme/oxide/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/oxide?colorA=0f0f0f&colorB=a8b5d1&style=for-the-badge"></a>
+  <a href="https://github.com/oxidescheme/oxide/releases/latest"><img src="https://img.shields.io/github/v/release/oxidescheme/oxide?colorA=0f0f0f&colorB=b8c9a8&style=for-the-badge"></a>
+  <a href="https://github.com/oxidescheme/oxide/issues"><img src="https://img.shields.io/github/issues/oxidescheme/oxide?colorA=0f0f0f&colorB=d1b8a8&style=for-the-badge"></a>
+  <a href="https://discord.com/servers/1450777325267456097"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=c6a0f6&labelColor=363a4f&logo=discord&logoColor=cad3f5"></a>
 </p>
 
 <p align="center">
@@ -24,7 +28,7 @@ Function first. Minimal by design.
 <a href="[https://github.com/oxidescheme/oxide/blob/main/LICENSE](https://www.google.com/search?q=https://github.com/oxidescheme/oxide/blob/main/LICENSE)"><img src="[https://img.shields.io/github/license/oxidescheme/oxide?colorA=161616&colorB=ffffff&style=for-the-badge&label=LICENSE](https://www.google.com/search?q=https://img.shields.io/github/license/oxidescheme/oxide%3FcolorA%3D161616%26colorB%3Dffffff%26style%3Dfor-the-badge%26label%3DLICENSE)"></a>
 </p>
 
-<p align="center">
+<p>
 <b>oxide</b> is a colorscheme that bridges functionality with minimalist aesthetics.
 It is built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and soft pastel accents to emphasize structure without visual noise.
 
