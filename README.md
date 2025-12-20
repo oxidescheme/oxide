@@ -1,38 +1,26 @@
-<h3 align="center">
-oxide
-</h3>
+<div align="center">
+
+# oxide
+
+</div>
 
 <h6 align="center">
-Function first. Minimal by design.
+Where function meets form.
 </h6>
 
-<h6 align="center">
-<a href="#-palette">Palette</a>
-·
-<a href="#-ports">Ports</a>
-·
-<a href="#-philosophy">Philosophy</a>
-</h6>
-
-</p>
 <p align="center">
   <a href="https://github.com/oxidescheme/oxide/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/oxide?colorA=0f0f0f&colorB=a8b5d1&style=for-the-badge"></a>
-  <a href="https://github.com/oxidescheme/oxide/releases/latest"><img src="https://img.shields.io/github/v/release/oxidescheme/oxide?colorA=0f0f0f&colorB=b8c9a8&style=for-the-badge"></a>
+  <!-- <a href="https://github.com/oxidescheme/oxide/releases/latest"><img src="https://img.shields.io/github/v/release/oxidescheme/oxide?colorA=0f0f0f&colorB=b8c9a8&style=for-the-badge"></a> -->
   <a href="https://github.com/oxidescheme/oxide/issues"><img src="https://img.shields.io/github/issues/oxidescheme/oxide?colorA=0f0f0f&colorB=d1b8a8&style=for-the-badge"></a>
-  <a href="https://discord.com/servers/1450777325267456097"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=c6a0f6&labelColor=363a4f&logo=discord&logoColor=cad3f5"></a>
-</p>
-
-<p align="center">
-<a href="[https://github.com/oxidescheme/oxide/stargazers](https://www.google.com/search?q=https://github.com/oxidescheme/oxide/stargazers)"><img src="[https://img.shields.io/github/stars/oxidescheme/oxide?colorA=161616&colorB=ffffff&style=for-the-badge&label=STARS](https://www.google.com/search?q=https://img.shields.io/github/stars/oxidescheme/oxide%3FcolorA%3D161616%26colorB%3Dffffff%26style%3Dfor-the-badge%26label%3DSTARS)"></a>
-<a href="[https://github.com/oxidescheme/oxide/issues](https://www.google.com/search?q=https://github.com/oxidescheme/oxide/issues)"><img src="[https://img.shields.io/github/issues/oxidescheme/oxide?colorA=161616&colorB=ffffff&style=for-the-badge&label=ISSUES](https://www.google.com/search?q=https://img.shields.io/github/issues/oxidescheme/oxide%3FcolorA%3D161616%26colorB%3Dffffff%26style%3Dfor-the-badge%26label%3DISSUES)"></a>
-<a href="[https://github.com/oxidescheme/oxide/blob/main/LICENSE](https://www.google.com/search?q=https://github.com/oxidescheme/oxide/blob/main/LICENSE)"><img src="[https://img.shields.io/github/license/oxidescheme/oxide?colorA=161616&colorB=ffffff&style=for-the-badge&label=LICENSE](https://www.google.com/search?q=https://img.shields.io/github/license/oxidescheme/oxide%3FcolorA%3D161616%26colorB%3Dffffff%26style%3Dfor-the-badge%26label%3DLICENSE)"></a>
+  <!-- <a href="https://discord.com/servers/1450777325267456097"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=c6a0f6&labelColor=363a4f&logo=discord&logoColor=cad3f5"></a> -->
+  <a href="[https://github.com/oxidescheme/oxide/blob/main/LICENSE](https://www.google.com/search?q=https://github.com/oxidescheme/oxide/blob/main/LICENSE)"><img src="[https://img.shields.io/github/license/oxidescheme/oxide?colorA=161616&colorB=ffffff&style=for-the-badge&label=LICENSE](https://www.google.com/search?q=https://img.shields.io/github/license/oxidescheme/oxide%3FcolorA%3D161616%26colorB%3Dffffff%26style%3Dfor-the-badge%26label%3DLICENSE)"></a>
 </p>
 
 <p>
 <b>oxide</b> is a colorscheme that bridges functionality with minimalist aesthetics.
 It is built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and soft pastel accents to emphasize structure without visual noise.
 
-oxide is available in two flavours — <b>dark</b> and <b>light</b> — each designed with the same principles of balance and readability, adapting the palette to different environments without changing its character.
+oxide is designed with the same principles of balance and readability, using a deep near-black background that adapts well to different environments without changing its character.
 </p>
 
 ### Design Philosophy
@@ -43,10 +31,9 @@ oxide is available in two flavours — <b>dark</b> and <b>light</b> — each des
 
 ### Palette
 
-**oxide** keeps it simple. We offer two core variations designed to work in any lighting condition (or lack thereof).
+**oxide** keeps it simple with a focused dark theme designed to work in any lighting condition (or lack thereof).
 
-* **Dark**: A deep, void-like background for long sessions.
-* **Light**: A crisp, paper-like aesthetic for high-ambient environments.
+* **Dark**: A deep, void-like background for long sessions and optimal readability.
 
 ### Ports
 
