@@ -16,26 +16,37 @@ Where function meets form.
 
 <p>
 <b>oxide</b> is a colorscheme that bridges functionality with minimalist aesthetics.
-It is built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and soft pastel accents to emphasize structure without visual noise.
+It is built around clarity and restraint, using a deep near-black background, crisp white foregrounds, and vibrant accent colors to emphasize structure without visual noise.
 
 oxide is designed with the same principles of balance and readability, using a deep near-black background that adapts well to different environments without changing its character.
 </p>
 
-### Design Philosophy
+## Design Philosophy
 
-* **Function first**: If a color does not serve a purpose, it does not belong. The palette exists to highlight logic, not to decorate text.
-* **Visual Silence**: We prefer a whisper to a shout. High contrast is reserved for data that matters; everything else recedes into the background.
-* **Opinionated Minimalism**: We decided what looks good so you don't have to spend three hours tweaking hex codes in a config file.
-* **Calculated Colors**: Built with OKLCH color space so all colors have consistent brightness and work well together.
+**oxide** is built on three core principles:
+
+* **Function first**: Every color exists to convey information
+* **Visual silence**: Elegance emerges from what is intentionally omitted
+* **Systematic harmony**: Every color relates predictably to the others
 
 ### Palette
 
 **oxide** uses OKLCH color space instead of guessing hex codes. OKLCH (Lightness Chroma Hue) is a color space that matches how humans actually see color, letting us set precise lightness and saturation values so colors look balanced and don't clash.
 
-* **Dark**: A deep, void-like background for long sessions and optimal readability.
-* **Consistent**: All accent colors share the same lightness value, creating visual harmony without the guesswork.
+The palette is built around three key principles:
 
-### Ports
+* **Perceptual uniformity**: All accent colors share identical lightness values (OKLCH 0.70), ensuring they feel equally prominent to the human eye
+* **Semantic consistency**: Each color serves a specific functional purpose—red for errors, blue for variables, green for success states
+* **Mathematical harmony**: Colors are positioned at precise intervals around the hue wheel, creating natural visual relationships
+
+**Core Structure:**
+
+* **Background**: Deep void-like `#161616` (OKLCH 0.20) optimized for long coding sessions
+* **Foreground**: Crisp text hierarchy from bright white `#dedede` down to subtle `#484848`
+* **Accent System**: 9 semantic colors at consistent lightness, each mapped to specific UI functions
+* **Terminal Colors**: 16-color ANSI palette with bright variants for maximum compatibility
+
+## Ports
 
 We are currently focused on the tools that matter.
 
@@ -47,11 +58,11 @@ We are currently focused on the tools that matter.
 
 </details>
 
-### Contributing
+## Contributing
 
 Minimalism doesn't mean stagnation. If you want to port oxide to a new tool, ensure you strip away the excess before submitting. We like PRs that delete more lines than they add.
 
-### Gratitude
+## Gratitude
 
 This project stands on the shoulders of giants (and very organized people).
 
