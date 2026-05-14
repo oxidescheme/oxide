@@ -32,9 +32,14 @@ Ports for the tools we actually use:
 
 * [Neovim](https://github.com/oxidescheme/nvim)
 * [Ghostty](https://github.com/oxidescheme/ghostty)
+* [kitty](https://github.com/oxidescheme/kitty)
+* [WezTerm](https://github.com/oxidescheme/wezterm)
+* [Alacritty](https://github.com/oxidescheme/alacritty)
+* [iTerm2](https://github.com/oxidescheme/iterm2)
 * [VS Code](https://github.com/oxidescheme/vscode)
 * [Zellij](https://github.com/oxidescheme/zellij)
 * [Antinote](https://github.com/oxidescheme/antinote)
+* [Beeper](https://github.com/oxidescheme/beeper)
 
 Want oxide in a tool that isn't listed? Use the [template](template/) to create a new port.
 
