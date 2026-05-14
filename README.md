@@ -40,6 +40,7 @@ Ports for the tools we actually use:
 * [Zellij](https://github.com/oxidescheme/zellij)
 * [Antinote](https://github.com/oxidescheme/antinote)
 * [Beeper](https://github.com/oxidescheme/beeper)
+* [Zed](https://github.com/oxidescheme/zed)
 
 Want oxide in a tool that isn't listed? Use the [template](template/) to create a new port.
 
