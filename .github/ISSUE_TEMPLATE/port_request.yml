@@ -1,0 +1,33 @@
+name: New Port Request
+description: Request an Oxide port for a specific terminal, editor, or tool
+title: "[Port Request]: <Tool Name>"
+labels: ["enhancement", "help wanted", "good first issue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new port! If you're up for it, you can create it yourself using our [Template Repository](https://github.com/oxidescheme/template). 
+        Otherwise, leave the request here for a community member to pick up!
+  - type: input
+    id: tool_name
+    attributes:
+      label: Tool Name
+      description: What is the name of the tool you want Oxide for?
+      placeholder: e.g. Windows Terminal, Warp, Bat, tmux
+    validations:
+      required: true
+  - type: input
+    id: tool_website
+    attributes:
+      label: Tool Website
+      description: Link to the tool's official website or GitHub repository
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Any extra details? (e.g. Does the tool use a specific config format like TOML or JSON?)
+    validations:
+      required: false
