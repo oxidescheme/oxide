@@ -38,6 +38,7 @@ Ports for the tools we actually use:
 * [iTerm2](https://github.com/oxidescheme/iterm2)
 * [VS Code](https://github.com/oxidescheme/vscode)
 * [Zellij](https://github.com/oxidescheme/zellij)
+* [Lazygit](https://github.com/oxidescheme/lazygit)
 * [Antinote](https://github.com/oxidescheme/antinote)
 * [Beeper](https://github.com/oxidescheme/beeper)
 * [Zed](https://github.com/oxidescheme/zed)
