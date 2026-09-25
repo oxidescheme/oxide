@@ -9,9 +9,9 @@ Where function meets form.
 </h6>
 
 <p align="center">
-  <a href="https://github.com/oxidescheme/oxide/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/oxide?colorA=161616&colorB=00a6ff&style=for-the-badge"></a>
-  <a href="https://github.com/oxidescheme/oxide/issues"><img src="https://img.shields.io/github/issues/oxidescheme/oxide?colorA=161616&colorB=ff5655&style=for-the-badge"></a>
-  <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=00baaa&labelColor=161616&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/oxidescheme/oxide/stargazers"><img src="https://img.shields.io/github/stars/oxidescheme/oxide?colorA=161616&colorB=2e2e2e&style=for-the-badge"></a>
+  <a href="https://github.com/oxidescheme/oxide/issues"><img src="https://img.shields.io/github/issues/oxidescheme/oxide?colorA=161616&colorB=2e2e2e&style=for-the-badge"></a>
+  <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=2e2e2e&labelColor=161616&logo=discord&logoColor=cecece"></a>
 </p>
 
 <p>
