@@ -7,6 +7,7 @@ First off, thank you for considering contributing to Oxide! This ecosystem relie
 Before contributing, please keep our core philosophy in mind:
 - **Dark-only**: Oxide is a dark-only colorscheme. Do NOT suggest, document, or implement light mode.
 - **Function First**: Visual silence, calculated colors, and a minimalist approach.
+- **Monochrome-first**: UI chrome (borders, selections, tabs, status bars) uses surface/text colors. Accents are reserved for semantic meaning only — errors, success, warnings, active states.
 
 ## Source of Truth for Colors
 
@@ -15,6 +16,13 @@ When adding a new port or updating colors, **always** source your hex or OKLCH v
 [`nvim/lua/oxide/colors.lua`](https://github.com/oxidescheme/nvim/blob/main/lua/oxide/colors.lua)
 
 Do NOT copy colors from other ports, as they may be outdated or use different formats.
+
+## UI Color Usage
+
+For how to map oxide colors to UI elements, read the **UI Color Guide**:
+[`oxide/UI_COLOR_GUIDE.md`](https://github.com/oxidescheme/oxide/blob/main/UI_COLOR_GUIDE.md)
+
+This guide is mandatory reading before creating a new port. It explains the monochrome-first philosophy and exactly when accents are appropriate for UI elements.
 
 ## How to Contribute
 

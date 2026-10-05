@@ -42,12 +42,15 @@ Ports for the tools we actually use:
 * [Antinote](https://github.com/oxidescheme/antinote)
 * [Beeper](https://github.com/oxidescheme/beeper)
 * [Zed](https://github.com/oxidescheme/zed)
+* [Yazi](https://github.com/oxidescheme/yazi)
 
-Want oxide in a tool that isn't listed? Use the [template](template/) to create a new port.
+Want oxide in a tool that isn't listed? Use the [template](https://github.com/oxidescheme/template) to create a new port.
 
 ## Contributing
 
 PRs welcome. If you're adding a port or fixing a color, make sure it matches the palette in [colors.txt](colors.txt).
+
+For README previews, follow the [screenshot guide](https://github.com/oxidescheme/template/blob/main/TEMPLATE_GUIDE.md#screenshots).
 
 ## Acknowledgments
 
