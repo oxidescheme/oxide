@@ -18,31 +18,36 @@ Where function meets form.
 <b>oxide</b> is a dark-only colorscheme for your editor and terminal. Deep near-black background, crisp text, and a set of accent colors that stay out of each other's way.
 </p>
 
+![Oxide syntax highlighting in a neutral editor with monochrome panels and selective accents](assets/showcase/neutral-editor.png)
+
 ## Palette
+
+![Oxide palette sheet showing neutrals, accents, their roles, and OKLCH values](assets/showcase/palette-sheet.png)
 
 **oxide** uses the OKLCH color space. Instead of eyeballing hex codes and hoping colors look balanced, OKLCH lets us set exact lightness and saturation values.
 
-All accent colors share the same lightness (OKLCH 0.70), so none of them feel louder than the others. They're spaced evenly around the hue wheel and each one maps to a specific UI function — red for errors, blue for variables, green for strings, etc.
+Accent colors share a target lightness of 0.70 and chroma of 0.15. Hue distinguishes their roles: red for errors, green for strings, teal for functions, and so on. Surfaces and text stay entirely monochrome.
 
 See [colors.txt](colors.txt) for the full palette.
 
 ## Ports
 
-Ports for the tools we actually use:
+Oxide is available for:
 
 * [Neovim](https://github.com/oxidescheme/nvim)
+* [Zed](https://github.com/oxidescheme/zed)
+* [VS Code](https://github.com/oxidescheme/vscode)
 * [Ghostty](https://github.com/oxidescheme/ghostty)
 * [kitty](https://github.com/oxidescheme/kitty)
 * [WezTerm](https://github.com/oxidescheme/wezterm)
 * [Alacritty](https://github.com/oxidescheme/alacritty)
 * [iTerm2](https://github.com/oxidescheme/iterm2)
-* [VS Code](https://github.com/oxidescheme/vscode)
 * [Zellij](https://github.com/oxidescheme/zellij)
 * [Lazygit](https://github.com/oxidescheme/lazygit)
+* [Yazi](https://github.com/oxidescheme/yazi)
 * [Antinote](https://github.com/oxidescheme/antinote)
 * [Beeper](https://github.com/oxidescheme/beeper)
-* [Zed](https://github.com/oxidescheme/zed)
-* [Yazi](https://github.com/oxidescheme/yazi)
+* [Web userstyles](https://github.com/oxidescheme/userstyles)
 
 Want oxide in a tool that isn't listed? Use the [template](https://github.com/oxidescheme/template) to create a new port.
 
