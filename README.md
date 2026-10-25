@@ -35,6 +35,7 @@ See [colors.txt](colors.txt) for the full palette.
 Oxide is available for:
 
 * [Neovim](https://github.com/oxidescheme/nvim)
+* [Vim](https://github.com/oxidescheme/vim)
 * [Zed](https://github.com/oxidescheme/zed)
 * [VS Code](https://github.com/oxidescheme/vscode)
 * [Ghostty](https://github.com/oxidescheme/ghostty)
